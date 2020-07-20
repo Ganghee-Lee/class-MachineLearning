@@ -1,2 +1,5 @@
 # class-MachineLearning
-This is for the assignment of Machine Learning class
+Practices for machine learning.
+1. Linear Regression
+
+2. Neural network implementation for the MNIST dataset
